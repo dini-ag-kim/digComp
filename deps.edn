@@ -1,0 +1,5 @@
+{:deps {org.clojure/data.csv {:mvn/version "1.1.0"}
+        com.github.arachne-framework/aristotle {:git/url "https://github.com/arachne-framework/aristotle"
+                                                :git/sha "15f0cb61d6a7ad2b579266b3fa78397004ae7e25"}
+        ont-app/vocabulary {:mvn/version "0.4.2"}}}
+

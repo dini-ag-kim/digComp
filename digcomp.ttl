@@ -1,0 +1,186 @@
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+<https://w3id.org/kim/digcomp/g_22>
+        a                  skos:Concept ;
+        skos:definition    ""@de ;
+        skos:prefLabel     "PROBLEM SOLVING"@de ;
+        skos:topConceptOf  <https://w3id.org/kim/digcomp/digcomp> .
+
+<https://w3id.org/kim/digcomp/g_6>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_5> ;
+        skos:definition  "To interact through a variety of digital technologies and to understand appropriate digital communication means for a given context."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "INTERACTING THROUGH DIGITAL TECHNOLOGIES"@de .
+
+<https://w3id.org/kim/digcomp/g_12>
+        a                  skos:Concept ;
+        skos:definition    ""@de ;
+        skos:prefLabel     "DIGITAL CONTENT CREATION"@de ;
+        skos:topConceptOf  <https://w3id.org/kim/digcomp/digcomp> .
+
+<https://w3id.org/kim/digcomp/g_18>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_17> ;
+        skos:definition  "To protect devices and digital content, and to understand risks and threats in digital environments. To know about safety and security measures and to have a due regard to reliability and privacy."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "PROTECTING DEVICES"@de .
+
+<https://w3id.org/kim/digcomp/g_21>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_17> ;
+        skos:definition  "To be aware of the environmental impact of digital technologies and their use."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "PROTECTING THE ENVIRONMENT"@de .
+
+<https://w3id.org/kim/digcomp/g_5>
+        a                  skos:Concept ;
+        skos:definition    ""@de ;
+        skos:prefLabel     "COMMUNICATION AND COLLABORATION"@de ;
+        skos:topConceptOf  <https://w3id.org/kim/digcomp/digcomp> .
+
+<https://w3id.org/kim/digcomp/g_11>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_5> ;
+        skos:definition  "To create, and manage one or multiple digital identities, to be able to protect one’s own reputation, to deal with the data that one produces through several digital tools, environments and services."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "MANAGING DIGITAL IDENTITY"@de .
+
+<https://w3id.org/kim/digcomp/g_17>
+        a                  skos:Concept ;
+        skos:definition    ""@de ;
+        skos:prefLabel     "SAFETY"@de ;
+        skos:topConceptOf  <https://w3id.org/kim/digcomp/digcomp> .
+
+<https://w3id.org/kim/digcomp/g_20>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_17> ;
+        skos:definition  "To be able to avoid health-risks and threats to physical and psychological well-being while using digital technologies. To be able to protect oneself and others from possible dangers in digital environments (e.g. cyber bullying). To be aware of digital technologies for social well-being and social inclusion."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "PROTECTING HEALTH AND WELL-BEING"@de .
+
+<https://w3id.org/kim/digcomp/g_26>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_22> ;
+        skos:definition  "To understand where one’s own digital competence needs to be improved or updated. To be able to support others with their digital competence development. To seek opportunities for self-development and to keep up-to-date with the digital evolution."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "IDENTIFYING DIGITAL COMPETENCE GAPS"@de .
+
+<https://w3id.org/kim/digcomp/g_4>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_1> ;
+        skos:definition  "To organise, store and retrieve data, information, and content in digital environments. To organise and process them in a structured environment."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "MANAGING DATA, INFORMATION AND DIGITAL CONTENT"@de .
+
+<https://w3id.org/kim/digcomp/g_10>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_5> ;
+        skos:definition  "To be aware of behavioural norms and know-how while using digital technologies and interacting in digital environments. To adapt communication strategies to the specific audience and to be aware of cultural and generational diversity in digital environments."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "NETIQUETTE"@de .
+
+<https://w3id.org/kim/digcomp/g_16>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_12> ;
+        skos:definition  "To plan and develop a sequence of understandable instructions for a computing system to solve a given problem or to perform a specific task."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "PROGRAMMING"@de .
+
+<https://w3id.org/kim/digcomp/g_25>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_22> ;
+        skos:definition  "To use digital tools and technologies to create knowledge and to innovate processes and products. To engage individually and collectively in cognitive processing to understand and resolve conceptual problems and problem situations in digital environments."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "CREATIVELY USING DIGITAL TECHNOLOGY"@de .
+
+<https://w3id.org/kim/digcomp/g_3>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_1> ;
+        skos:definition  "To analyse, compare and critically evaluate the credibility and reliability of sources of data, information and digital content. To analyse, interpret and critically evaluate the data, information and digital content."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "EVALUATING DATA, INFORMATION AND DIGITAL CONTENT"@de .
+
+<https://w3id.org/kim/digcomp/g_9>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_5> ;
+        skos:definition  "To use digital tools and technologies for collaborative processes, and for co-construction and co-creation of data, resources and knowledge."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "COLLABORATING THROUGH DIGITAL TECHNOLOGIES"@de .
+
+<https://w3id.org/kim/digcomp/g_15>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_12> ;
+        skos:definition  "To understand how copyright and licences apply to digital information and content."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "COPYRIGHT AND LICENCES"@de .
+
+<https://w3id.org/kim/digcomp/g_24>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_22> ;
+        skos:definition  "To assess needs and to identify, evaluate, select and use digital tools and possible technological responses and to solve them. To adjust and customise digital environments to personal needs (e.g. accessibility)."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "IDENTIFYING NEEDS AND TECHNOLOGICAL RESPONSES"@de .
+
+<https://w3id.org/kim/digcomp/g_2>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_1> ;
+        skos:definition  "To articulate information needs , to search for data, information and content in digital environments, to access them and to navigate between them. To create and update personal search strategies."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "BROWSING, SEARCHING AND FILTERING DATA, INFORMATION AND DIGITAL CONTENT"@de .
+
+<https://w3id.org/kim/digcomp/g_8>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_5> ;
+        skos:definition  "To participate in society through the use of public and private digital services. To seek opportunities for self-empowerment and for participatory citizenship through appropriate digital technologies."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "ENGAGING CITIZENSHIP THROUGH DIGITAL TECHNOLOGIES"@de .
+
+<https://w3id.org/kim/digcomp/g_14>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_12> ;
+        skos:definition  "To modify, refine and integrate new information and content into an existing body of knowledge and resources to create new, original and relevant content and knowledge."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "INTEGRATING AND RE-ELABORATING DIGITAL CONTENT"@de .
+
+<https://w3id.org/kim/digcomp/g_23>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_22> ;
+        skos:definition  "To identify technical problems when operating devices and using digital environments, and to solve them (from trouble-shooting to solving more complex problems)."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "SOLVING TECHNICAL PROBLEMS"@de .
+
+<https://w3id.org/kim/digcomp/digcomp>
+        a                   skos:ConceptScheme ;
+        dct:description     "Auflistung der DigComp Kompetenzen"@de ;
+        dct:title           "DigComp Kompetenzen"@de ;
+        skos:hasTopConcept  <https://w3id.org/kim/digcomp/g_22> , <https://w3id.org/kim/digcomp/g_17> , <https://w3id.org/kim/digcomp/g_12> , <https://w3id.org/kim/digcomp/g_5> , <https://w3id.org/kim/digcomp/g_1> .
+
+<https://w3id.org/kim/digcomp/g_1>
+        a                  skos:Concept ;
+        skos:definition    ""@de ;
+        skos:prefLabel     "INFORMATION AND DATA LITERACY"@de ;
+        skos:topConceptOf  <https://w3id.org/kim/digcomp/digcomp> .
+
+<https://w3id.org/kim/digcomp/g_7>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_5> ;
+        skos:definition  "To share data, information and digital content with others through appropriate digital technologies. To act as an intermediary, to know about referencing and attribution practices."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "SHARING THROUGH DIGITAL TECHNOLOGIES"@de .
+
+<https://w3id.org/kim/digcomp/g_13>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_12> ;
+        skos:definition  "To create and edit digital content in different formats, to express oneself through digital means."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "DEVELOPING DIGITAL CONTENT"@de .
+
+<https://w3id.org/kim/digcomp/g_19>
+        a                skos:Concept ;
+        skos:broader     <https://w3id.org/kim/digcomp/g_17> ;
+        skos:definition  "To protect personal data and privacy in digital environments. To understand how to use and share personally identifiable information while being able to protect oneself and others from damages. To understand that digital services use a “Privacy policy” to inform how personal data is used."@de ;
+        skos:inScheme    <https://w3id.org/kim/digcomp/digcomp> ;
+        skos:prefLabel   "PROTECTING PERSONAL DATA AND PRIVACY"@de .
